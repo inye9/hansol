@@ -3,7 +3,7 @@
 HTML, CSS, JavaScript를 연습하고자 만든, 반응형 Web 페이지입니다.
 
 
-<img width="800" src="https://user-images.githubusercontent.com/96094277/145974049-ee10056d-5df3-4e02-8dca-0ab4f42a31c3.gif">
+<img width="800" src="https://user-images.githubusercontent.com/96094277/145997012-7eb69b71-e5f2-4eeb-ab01-0fc636e4f821.gif">
 
 
 ### 📎 링크 
